@@ -1,0 +1,20 @@
+PODS:
+  - FloatingPanel (2.4.0)
+  - Kingfisher (6.3.0)
+
+DEPENDENCIES:
+  - FloatingPanel
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  FloatingPanel: fa60183672ed86313b9e241e34465e82211260e8
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+
+PODFILE CHECKSUM: 26afb3c7578b4b20d1b067391bd57bd97f622c03
+
+COCOAPODS: 1.10.0

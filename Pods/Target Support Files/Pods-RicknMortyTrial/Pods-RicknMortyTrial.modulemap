@@ -1,0 +1,6 @@
+framework module Pods_RicknMortyTrial {
+  umbrella header "Pods-RicknMortyTrial-umbrella.h"
+
+  export *
+  module * { export * }
+}
